@@ -1,0 +1,7 @@
+c:\Users\david.garcialopez\Downloads\OrderProcessingApp\OrderProcessingApp\obj\Debug\net8.0\OrderProcessingApp.csproj.AssemblyReference.cache
+c:\Users\david.garcialopez\Downloads\OrderProcessingApp\OrderProcessingApp\obj\Debug\net8.0\OrderProcessingApp.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\david.garcialopez\Downloads\OrderProcessingApp\OrderProcessingApp\obj\Debug\net8.0\OrderProcessingApp.AssemblyInfoInputs.cache
+c:\Users\david.garcialopez\Downloads\OrderProcessingApp\OrderProcessingApp\obj\Debug\net8.0\OrderProcessingApp.AssemblyInfo.cs
+c:\Users\david.garcialopez\Downloads\OrderProcessingApp\OrderProcessingApp\obj\Debug\net8.0\OrderProcessingApp.csproj.CoreCompileInputs.cache
+c:\Users\david.garcialopez\Downloads\OrderProcessingApp\OrderProcessingApp\obj\Debug\net8.0\OrderProcessingApp.MvcApplicationPartsAssemblyInfo.cs
+c:\Users\david.garcialopez\Downloads\OrderProcessingApp\OrderProcessingApp\obj\Debug\net8.0\OrderProcessingApp.MvcApplicationPartsAssemblyInfo.cache
